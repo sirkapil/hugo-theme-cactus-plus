@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://sirkapil.gq/"
+baseurl = "https://sirkapil.github.io/hugo-theme-cactus-plus/"
 # HTML Language Code Reference, such as en, zh-cn
 languageCode = "en"
 title = "Blog Title"
